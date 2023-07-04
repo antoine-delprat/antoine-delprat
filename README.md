@@ -1,4 +1,4 @@
-<h3 align="left">Hi! I'm Antoine, Junior Full Stack Developer 🐥</h3>
+<h3 align="left">Hi! I'm Antoine, Junior Developer 🐥</h3>
 <p align="left">⚒ In tech/digital since 2017, developer since 2023<br>👀 I'm currently looking for a Front End position #javascript<br>🌊 Fun facts: I like surfing "irl" and I'm a dj</p>
 
 ###
