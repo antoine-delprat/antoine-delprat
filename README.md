@@ -1,5 +1,6 @@
-<h3 align="left">Hi! I'm Antoine, Junior Developer 🐥</h3>
-<p align="left">⚒ In tech/digital since 2017, developer since 2023<br>👀 I'm currently looking for a Front End position #javascript<br>🌊 Fun facts: I like surfing "irl" and I'm a dj</p>
+<h3 align="left">Hi! I'm Antoine, Junior Front End Developer 🐥</h3>
+<p align="left">👨🏻‍💻 I've worked 5 years as Customer Success Manager at AB Tasty and iAdvize, developing my analytical, UX and project management skills. But I was also growing an interest for the tech-side...<br>🚀 That's why in 2023, I've decided to join the tech forces and I've followed a 3-months intensive coding bootcamp at Le Wagon, learning HTML, CSS, Bootstrap, JavaScript, SQL and Ruby on Rails (MVC).<br>
+👀 So I'm now looking for a new position as Junior Front End Developer! #javascript</p>
 
 ###
 
@@ -25,4 +26,4 @@
 
 ###
 
-<h3 align="left">... but I learn fast ! I'd be happy to discover new things 🚀</h3>
+<h3 align="left">... but I learn fast ! I'd be happy to adapt and learn new things 🚀</h3>
